@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,apple.news
 
 
 ## 自定义 需要代理的
-
+DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,tanzhen.openai3.xyz
 DOMAIN-SUFFIX,freeopenai.xyz
 DOMAIN-SUFFIX,slackb.com
